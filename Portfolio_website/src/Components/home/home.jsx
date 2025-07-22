@@ -4,7 +4,7 @@ import About from "../About/About";
 
 export default function Home(){
   return(
-    <div className="  m-1 px-40 py-5 pr-4 justify-center ">
+    <div className="  m-1 px-30 py-5 pr-4 justify-center ">
       <div className="flex flex-row justify-center items-center">
         <div className=" flex flex-col  ">
         <div className=" flex text-[#B2B2B2] text-xl md:text-s ">HELLO , MY NAME IS</div>
