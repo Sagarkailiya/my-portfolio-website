@@ -51,7 +51,7 @@ export default function Project (){
 
   return (
     <div>
-     <div className=' flex flex-wrap p-5 justify-center items-center  '>
+     <div className=' flex flex-wrap p-5 justify-center items-center  ' id='project'>
         <div className='pt-3 '>
           <span className='text-4xl font-bold '>Explore My Popular </span>
           <span className='text-4xl font-bold text-[#ff010f]'> Projects </span>
