@@ -1,5 +1,6 @@
 
 import React, { useState } from 'react'
+import Experiences from '../Experiences/experiences'
 
 export default function Project (){
 
@@ -229,7 +230,7 @@ export default function Project (){
 
 
     
-
+  <Experiences/>
 
   </div>
   )
